@@ -1,0 +1,14 @@
+div{
+    background-color: red;
+    overflow: auto;
+    outline-width: 10px;
+    outline-style: dotted;
+    outline-color: green;
+    outline-offset: 20px;
+    width: 50%;
+    height:50%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20%;
+    
+}
