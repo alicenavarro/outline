@@ -1,4 +1,4 @@
-div{
+/* div{
     background-color: red;
     overflow: auto;
     outline-width: 10px;
@@ -11,4 +11,16 @@ div{
     margin-right: auto;
     margin-top: 20%;
     
-}
+} */
+
+.square:hover, .square:active {
+    outline-color: blue;
+    outline-width: 4px;
+  }
+
+  .square {
+    width: 100px;
+    height: 100px;
+    outline: 2px dotted green;
+    background-color: red;
+  }
